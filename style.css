@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    
+} */
+.container{
+    width:20vw;
+    background-color: #000;
+    position: relative;
+    top: 45vh;
+    min-width: 15vmax;
+    color:white;
+    border-radius: 25px;
+    
+}
+ #colorcode{
+ padding-top: 15px;
+} 
+
+#btn{
+    height:40px;
+    width:90%;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: large;
+    font-weight: 600;
+}
